@@ -1,0 +1,37 @@
+@relation 'features-weka.filters.unsupervised.attribute.Reorder-R1,2,3,4,5,6,7,8,9,10,11,12'
+
+@attribute Key {H,E,L,O,G,D}
+@attribute 'dwell time' numeric
+@attribute 'down ' numeric
+@attribute up numeric
+@attribute 'dwell mean' numeric
+@attribute 'down mean' numeric
+@attribute 'up mean' numeric
+@attribute 'dwell stv' numeric
+@attribute 'down stv' numeric
+@attribute 'up stv' numeric
+@attribute 'no of backspace' numeric
+@attribute class {userA,userB,userC}
+
+@data
+H,47,0,0,47,0,0,0,0,0,0,userA
+E,0,475,522,23,237,261,23,237,261,0,userA
+L,0,94,94,15,189,205,22,205,227,0,userA
+L,31,140,109,19,177,181,20,179,201,0,userA
+O,0,1589,1620,15,459,469,19,586,602,0,userA
+G,47,0,0,47,0,0,0,0,0,0,userA
+O,0,1154,1201,23,577,600,23,577,600,0,userA
+O,0,110,110,15,421,437,22,520,542,0,userA
+D,15,140,125,15,351,359,19,466,488,0,userA
+G,63,0,0,63,0,0,0,0,0,0,userB
+O,109,1240,1194,86,620,597,23,620,597,0,userB
+O,62,3078,3125,78,1439,1439,21,1264,1287,0,userB
+D,94,657,625,82,1243,1236,20,1146,1169,0,userB
+G,25,0,0,25,0,0,0,0,0,0,userC
+O,0,453,478,12,226,239,12,226,239,0,userC
+O,31,125,94,18,192,190,13,191,206,0,userC
+D,47,1742,1726,25,580,574,16,690,688,0,userC
+G,203,0,0,203,0,0,0,0,0,0,userC
+O,281,1705,1627,242,852,813,39,852,813,0,userC
+O,250,1412,1427,244,1039,1018,32,744,724,0,userC
+D,225,1277,1318,239,1098,1093,29,652,640,0,userC

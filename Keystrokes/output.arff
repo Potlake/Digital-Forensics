@@ -1,0 +1,14 @@
+@relation log_file
+
+@attribute 'KeyPressed ' {'KeyPressed '}
+@attribute 1499248939424 numeric
+@attribute H {E,L,O}
+@attribute ' KeyReleased ' {' KeyReleased '}
+@attribute ' 1499248940161' numeric
+@attribute H {E,L,O}
+
+@data
+'KeyPressed ',1499248940176.999936,E,' KeyReleased ',1499248940192,E
+'KeyPressed ',1499248940891.000064,L,' KeyReleased ',1499248940959.000064,L
+'KeyPressed ',1499248941148,L,' KeyReleased ',1499248941224,L
+'KeyPressed ',1499248941441.999872,O,' KeyReleased ',1499248941500,O

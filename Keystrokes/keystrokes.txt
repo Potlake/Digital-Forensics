@@ -1,0 +1,73 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package logger;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import org.jnativehook.GlobalScreen;
+import org.jnativehook.NativeHookException;
+import org.jnativehook.keyboard.NativeKeyEvent;
+import org.jnativehook.keyboard.NativeKeyListener;
+/**
+ *
+ * @author Richard
+ */
+public class jNativeHookExample implements NativeKeyListener {
+    
+    public static PrintWriter writer;
+    
+    /* Key Pressed */
+    @Override
+    public void nativeKeyPressed(NativeKeyEvent e) {
+        writer.println("Key Pressed\t" + System.currentTimeMillis() + "\t" + NativeKeyEvent.getKeyText(e.getKeyCode()));
+        /* Terminate program when one press ESCAPE */
+        if (e.getKeyCode() == NativeKeyEvent.VC_ESCAPE) {
+            try {
+                GlobalScreen.unregisterNativeHook();
+                writer.close();                
+            } catch (NativeHookException ex) {
+                Logger.getLogger(jNativeHookExample.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }
+    }
+
+    /* Key Released */
+    @Override
+    public void nativeKeyReleased(NativeKeyEvent e) {
+        writer.println("Key Released\t" + System.currentTimeMillis() + "\t" + NativeKeyEvent.getKeyText(e.getKeyCode()));
+    }
+
+    /* I can't find any output from this call */
+    @Override
+    public void nativeKeyTyped(NativeKeyEvent e) {
+        //writer.println("Key Typed: " + NativeKeyEvent.getKeyText(e.getKeyCode()));
+    }
+    
+    public static void main(String[] args) {
+              
+        try {
+            /* Register jNativeHook */
+            GlobalScreen.registerNativeHook();
+            
+            //Create the writer, if exist, will overwirte it
+            writer = new PrintWriter("log_file.xls");
+            
+        } catch (NativeHookException ex) {
+            /* Its error */
+            System.err.println("There was a problem registering the native hook.");
+            System.err.println(ex.getMessage());
+            System.exit(1);
+        } catch (IOException e) {
+           // do something
+        }  
+
+        /* Construct the example object and initialze native hook. */
+        GlobalScreen.addNativeKeyListener(new jNativeHookExample());
+    }
+    
+    
+}
