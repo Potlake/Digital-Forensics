@@ -7,6 +7,7 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
+
 <project name="Keystrokes" default="default" basedir=".">
     <description>Builds, tests, and runs the project Keystrokes.</description>
     <import file="nbproject/build-impl.xml"/>
@@ -14,113 +15,25 @@
 	<property name="ant.dir.objects" value="${project.build.directory}/objects" />
 	<property name="ant.dir.library" value="${project.build.directory}/classes/lc/kra/system/lib" />
 	
-	<target name="initialize" description="Initialize local build environment.">
-		<echo>Initializing local environment...</echo>
-		
-		<!-- Ant -->
-		<property name="settings.localRepository" value="${user.home}/.m2/repository" />
-		<taskdef name="cc" classname="net.sf.antcontrib.cpptasks.CCTask">
-			<classpath>
-				<fileset dir="${settings.localRepository}">
-					<include name="ant-contrib/cpptasks/1.0b5/cpptasks-1.0b5.jar"/>
-				</fileset>
-			</classpath>
-		</taskdef>
-		
-		<!-- JNI includes -->
-		<condition property="ant.jni.include" value="${env.JAVA_HOME}/include">
-			<available file="${env.JAVA_HOME}/include" type="dir" />
-		</condition>
-		<condition property="ant.jni.include" value="${java.home}/include">
-			<available file="${java.home}/include" type="dir" />
-		</condition>
-		
-		<fail message="Could not find ant.jni.include folder. Please set your JAVA_HOME environment variable to the root of your JDK directory or manually set the ant.jni.include to the location of the Java JNI header files.">
-			<condition>
-				<not>
-					<or>
-						<isset property="ant.jni.include" />
-						<available file="${ant.jni.include}" type="dir" />
-					</or>
-				</not>
-			</condition>
-		</fail>
-		
-		<!-- OS & OS Arch -->
-		<condition property="ant.os" value="windows">
-			<or>
-				<os family="winnt" />
-				<os family="windows" />
-			</or>
-		</condition>
-		<condition property="ant.os.windows" value="true">
-			<equals arg1="${ant.os}" arg2="windows" />
-		</condition>
-		
-		<condition property="ant.os.arch" value="x86">
-			<or>
-				<os arch="x86" />
-				<os arch="i386" />
-				<os arch="i486" />
-				<os arch="i586" />
-				<os arch="i686" />
-			</or>
-		</condition>
-		<condition property="ant.os.arch" value="amd64">
-			<or>
-				<os arch="amd64" />
-				<os arch="x86-64" />
-				<os arch="x86_64" />
-				<os arch="k8" />
-			</or>
-		</condition>
-		<property name="ant.os.arch" value="${os.arch}" />
-		<condition property="os.arch.x86" value="true">
-			<equals arg1="${os.arch}" arg2="x86" />
-		</condition>
-		<condition property="os.arch.amd64" value="true">
-			<equals arg1="${os.arch}" arg2="amd64" />
-		</condition>
-		
-		<!-- Native Build -->
-		<property name="ant.native.compiler" value="gcc" />
-		<property name="ant.native.linker" value="${ant.native.compiler}" />		
-	</target>
-	
-	<target name="compile" depends="initialize" description="Compiles JNI source files.">
-		<property name="ant.native.library" value="systemhook-${ant.os}-${ant.os.arch}.dll" />
-		
-		<cc objdir="${ant.dir.objects}" outfile="${ant.dir.library}/${ant.native.library}" subsystem="console" debug="${ant.native.debug}">
-			<compiler name="${ant.native.compiler}" />
-			<compilerarg value="-std=c99" />
-			
-			<compilerarg value="-O0" unless="${ant.native.debug}" />
-			<compilerarg value="-O2" if="${ant.native.debug}" />
-			<compilerarg value="-g3" unless="${ant.native.debug}" />
-				
-			<compilerarg value="-Wall" />
-			<compilerarg value="-Wextra" />
-			<compilerarg value="-Wno-unused-parameter" />
-			
-			<compilerarg value="-D_JNI_IMPLEMENTATION_" />
-			
-			<includepath path="${ant.jni.include}" />
-			<includepath path="${ant.jni.include}/win32" if="ant.os.windows" />
-			
-			<defineset>
-				<define name="DEBUG" if="ant.native.debug" />
-			</defineset>
-			
-			<linker name="${ant.native.linker}" />
-			<linkerarg value="-shared" />
-			<linkerarg value="-static" if="ant.os.windows" />
-			<linkerarg value="-add-stdcall-alias" if="ant.os.windows" />
-			
-			<fileset dir="${ant.dir.native}/${ant.os}">
-				<include name="**/*.c" />
-			</fileset>
-		</cc>
-	</target>
+
+ <target name="-post-jar">
+    <property name="store.jar.name" value="Keystrokes Recorder"/>
+    <property name="store.dir" value="dist"/>
+    <property name="store.jar" value="${store.dir}/${store.jar.name}.jar"/>
+    <echo message="Packaging ${application.title} into a single JAR at ${store.jar}"/>
+    <jar destfile="${store.dir}/temp_final.jar" filesetmanifest="skip">
+        <zipgroupfileset dir="dist" includes="*.jar"/>
+        <zipgroupfileset dir="dist/lib" includes="*.jar"/>
+        <manifest>
+            <attribute name="Main-Class" value="${main.class}"/>
+        </manifest>
+    </jar>
+    <zip destfile="${store.jar}">
+        <zipfileset src="${store.dir}/temp_final.jar"
+        excludes="META-INF/*.SF, META-INF/*.DSA, META-INF/*.RSA"/>
+    </zip>
+    <delete file="${store.dir}/temp_final.jar"/>
+</target>
     <!--
 
     There exist several targets which are by default empty and which can be 

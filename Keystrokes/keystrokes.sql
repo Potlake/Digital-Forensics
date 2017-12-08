@@ -1,6 +1,7 @@
+create database keystrokes;
 USE keystrokes;
 
-drop table if exists users, features, originalFiles, duplicatefiles;
+drop table if exists Users, features, originalFiles, duplicateFiles;
 create table Users (
         id INT NOT NULL AUTO_INCREMENT,
         classifier VARCHAR(30) NOT NULL,

@@ -1,0 +1,26 @@
+@relation accumulated
+
+@attribute 'Key ' {H,E,L,O,Space,W,R}
+@attribute ' Dwelltime' numeric
+@attribute ' Dwelltimemean' numeric
+@attribute ' Dwelltimestandarddeviation' numeric
+@attribute ' Upflighttime' numeric
+@attribute ' Upflighttimemean ' numeric
+@attribute ' Upflighttimestandarddeviaton' numeric
+@attribute Downflighttime numeric
+@attribute ' Downflihttimemean' numeric
+@attribute ' Downflighttimestandarddeviation' numeric
+@attribute ' user' numeric
+
+@data
+H,759,134,190,37,389,322,777,447,325,?
+E,19,134,190,201,389,322,144,447,325,?
+L,76,134,190,140,389,322,140,447,325,?
+L,76,134,190,159,389,322,174,447,325,?
+O,61,134,190,914,389,322,912,447,325,?
+Space,63,134,190,263,389,322,186,447,325,?
+W,140,134,190,232,389,322,281,447,325,?
+O,91,134,190,312,389,322,342,447,325,?
+R,61,134,190,981,389,322,986,447,325,?
+L,56,134,190,808,389,322,785,447,325,?
+R,79,134,190,241,389,322,192,447,325,?

@@ -1,0 +1,555 @@
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 <= 0.145455, 20 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime5 <= 0.241758, 5 ,0.3333333333333333
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime5 > 0.241758, 51 ,0.3333333333333333
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 > 0.119753, 3 ,0.3333333333333333
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 pressure9 <= 0.174757, 84 ,0.06451612903225806
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 pressure8 <= 0.162791, 50 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 pressure8 > 0.162791, 25 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 fingerarea3 <= 0.148148, 25 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 meanfingerarea <= 0.123699, 54 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 meanfingerarea > 0.123699, 50 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 holdtime6 <= 0.231481, 20 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 downdown9 <= 0.015664, 5 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 updown3 <= 0.017889, 5 ,0.3333333333333333
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 updown3 > 0.017889, 80 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 pressure1 > 0.214286, 3 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 fingerarea9 <= 0.081482, 5 ,0.3333333333333333
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 downdown6 <= 0.01413, 54 ,0.07692307692307693
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 downdown6 <= 0.022383, 53 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 downdown6 > 0.022383, 54 ,0.3333333333333333
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 fingerarea11 > 0.158025, 25 ,0.6666666666666666
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 downdown9 <= 0.011617, 25 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 downdown9 > 0.011617, 21 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 holdtime5 > 0.351648, 53 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure4 <= 0.129496, 50 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure4 > 0.129496, 2 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 fingerarea6 > 0.27284, 24 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea5 <= 0.142857, 6 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 fingerarea14 <= 0.119753, 5 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 fingerarea14 > 0.119753, 25 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 updown12 <= 0.141977, 9 ,0.3333333333333333
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 updown12 > 0.141977, 7 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 fingerarea4 > 0.119753, 8 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure1 <= 0.135945, 9 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure1 > 0.135945, 71 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 pressure7 <= 0.142857, 71 ,0.3333333333333333
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 pressure6 > 0.175258 pressure11 <= 0.47619, 65 ,0.047619047619047616
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 pressure6 > 0.175258 pressure11 > 0.47619, 71 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 holdtime4 <= 0.145658, 9 ,0.6666666666666666
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 pressure6 > 0.175258 fingerarea3 > 0.148148 fingerarea8 <= 0.158025, 71 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 pressure6 > 0.175258 fingerarea3 > 0.148148 fingerarea8 > 0.158025, 3 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 pressure6 > 0.175258 fingerarea13 > 0.185185, 3 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 fingerarea14 <= 0.111111, 9 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 fingerarea14 > 0.111111, 51 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure13 <= 0.157025, 5 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 updown9 <= 0.01648, 9 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 holdtime13 <= 0.39267, 9 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 holdtime13 > 0.39267, 8 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 fingerarea6 <= 0.158025, 80 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 fingerarea6 > 0.158025, 3 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea8 <= 0.111111, 53 ,0.14285714285714285
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 pressure3 <= 0.108434, 2 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 pressure3 > 0.108434, 8 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 fingerarea1 > 0.245129, 10 ,0.03571428571428571
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 meanholdtime <= 0.351485, 27 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 meanholdtime > 0.351485, 83 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 fingerarea3 <= 0.111111, 37 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 fingerarea3 > 0.111111, 2 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 pressure14 > 0.181818, 21 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 holdtime1 <= 0.400862, 1 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 holdtime1 > 0.400862, 27 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 meanfingerarea > 0.374647, 38 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure12 <= 0.164062, 40 ,0.3333333333333333
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure4 <= 0.18705, 2 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure4 > 0.18705, 51 ,0.058823529411764705
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 meanfingerarea > 0.370067, 40 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown12 <= 0.124845, 51 ,0.2
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 fingerarea13 <= 0.111111, 37 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 fingerarea13 > 0.111111, 3 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure10 <= 0.490909, 37 ,0.043478260869565216
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure10 > 0.490909, 40 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown3 <= 0.032149, 21 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown3 > 0.032149, 10 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown7 <= 0.019745, 85 ,0.25
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure7 <= 0.12782, 36 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure7 > 0.12782, 35 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 fingerarea6 <= 0.296296, 71 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 fingerarea6 > 0.296296, 27 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea5 > 0.239631, 40 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 downdown13 <= 0.003699, 27 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure3 <= 0.355422, 38 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure3 > 0.355422, 27 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 updown3 <= 0.001848, 81 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 holdtime3 <= 0.266129, 68 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 holdtime3 > 0.266129, 66 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 pressure6 > 0.175258 holdtime1 <= 0.318966, 68 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 pressure6 > 0.175258 holdtime1 > 0.318966, 66 ,0.3333333333333333
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 pressure1 > 0.25, 73 ,0.04
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure10 <= 0.236364, 27 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure10 > 0.236364, 29 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 fingerarea3 <= 0.318996, 70 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 fingerarea3 > 0.318996, 1 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 fingerarea14 <= 0.333333, 68 ,0.04
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 holdtime9 <= 0.252, 36 ,0.3333333333333333
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 holdtime9 > 0.252, 38 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure8 <= 0.352485, 83 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure8 > 0.352485, 28 ,0.2
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 updown12 > 0.071235, 69 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 pressure4 <= 0.188696, 54 ,0.14285714285714285
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 pressure8 <= 0.372093, 24 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 pressure8 > 0.372093, 69 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 fingerarea4 > 0.296296, 36 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 fingerarea12 > 0.247312, 85 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 updown6 <= 0.008027, 66 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure3 <= 0.301205, 36 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure3 > 0.301205, 85 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 updown11 <= 0.002025, 70 ,0.14285714285714285
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 updown11 > 0.002025, 26 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 holdtime2 <= 0.328889, 38 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 holdtime2 > 0.328889, 83 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 updown12 > 0.024402, 2 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 pressure14 <= 0.311497, 1 ,0.3333333333333333
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 pressure14 > 0.311497, 81 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 fingerarea14 <= 0.158025, 2 ,0.07692307692307693
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 fingerarea9 <= 0.196296, 36 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 fingerarea9 > 0.196296, 54 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure2 <= 0.300971, 38 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 updown11 <= 0.001529, 1 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 updown11 > 0.001529, 85 ,0.09090909090909091
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure13 > 0.322314, 70 ,0.2
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 holdtime1 <= 0.439655, 70 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 holdtime1 > 0.439655, 35 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 holdtime3 <= 0.431452, 36 ,0.25
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 holdtime3 > 0.431452, 26 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 updown6 <= 0.008324, 69 ,0.05263157894736842
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 fingerarea12 <= 0.148148, 24 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 updown2 <= 0.092353, 28 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 pressure7 <= 0.180451, 28 ,0.25
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 pressure6 > 0.175258 pressure2 <= 0.291262, 69 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 pressure9 > 0.174757 pressure6 > 0.175258 pressure2 > 0.291262, 26 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 holdtime1 <= 0.521552, 1 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 holdtime1 > 0.521552, 69 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 fingerarea11 > 0.222222, 4 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 updown6 <= 0.030442, 55 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 pressure5 <= 0.402439, 4 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 pressure5 > 0.402439, 28 ,0.3333333333333333
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 pressure13 <= 0.214876, 36 ,0.2
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 holdtime12 <= 0.674312, 26 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 holdtime12 > 0.674312, 28 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 updown5 > 0.031275, 41 ,0.25
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 updown1 <= 0.006512, 41 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure9 <= 0.417476, 4 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 fingerarea12 <= 0.390681, 82 ,0.043478260869565216
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.266055 pressure10 > 0.145455 fingerarea14 <= 0.119753 holdtime12 > 0.266055 downdown2 <= 0.090909 pressure6 <= 0.175258 fingerarea12 > 0.390681, 41 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 <= 0.194175, 20 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 holdtime2 <= 0.288889, 71 ,0.3333333333333333
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 holdtime2 > 0.288889, 65 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 holdtime13 <= 0.350785, 3 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 holdtime13 > 0.350785, 5 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 pressure6 <= 0.164948, 25 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 pressure6 > 0.164948, 54 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea11 > 0.119753, 24 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 pressure1 <= 0.214286, 84 ,0.034482758620689655
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 pressure1 > 0.214286, 25 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 pressure4 <= 0.143885, 50 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 pressure4 > 0.143885, 25 ,0.14285714285714285
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 fingerarea1 <= 0.168224, 5 ,0.05
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 fingerarea1 > 0.168224, 20 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 holdtime3 > 0.346774, 80 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 fingerarea11 > 0.158025, 3 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 fingerarea11 <= 0.081482, 25 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 fingerarea11 > 0.081482, 80 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 fingerarea6 <= 0.04321, 5 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown11 <= 0.001593, 25 ,0.3333333333333333
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown11 > 0.001593, 53 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 holdtime10 <= 0.347032, 50 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 holdtime10 > 0.347032, 54 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 pressure2 <= 0.254648, 20 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 pressure2 > 0.254648, 53 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 pressure10 <= 0.145455, 25 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 pressure10 > 0.145455, 21 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 downdown9 > 0.012093, 21 ,0.07692307692307693
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 fingerarea3 <= 0.185185, 2 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 fingerarea3 > 0.185185, 50 ,0.2
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 fingerarea6 > 0.27284, 24 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea5 <= 0.142857, 6 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea5 > 0.142857, 25 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 fingerarea7 <= 0.035714, 9 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 fingerarea7 > 0.035714, 7 ,0.034482758620689655
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 fingerarea3 > 0.148148, 9 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 pressure11 <= 0.214286, 5 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 pressure11 > 0.214286, 65 ,0.09090909090909091
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 holdtime12 <= 0.399083, 71 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 holdtime12 > 0.399083, 5 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 holdtime7 > 0.257353, 9 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 pressure5 <= 0.260083, 9 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 downdown6 <= 0.031289, 9 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 downdown6 > 0.031289, 8 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown12 <= 0.107469, 80 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown12 > 0.107469, 51 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 pressure2 > 0.300971, 25 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 updown12 > 0.133843, 3 ,0.08333333333333333
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 pressure2 <= 0.368932, 65 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 pressure2 > 0.368932, 68 ,0.6666666666666666
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 pressure1 <= 0.107143, 8 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 pressure1 > 0.107143, 53 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 fingerarea1 > 0.245129, 10 ,0.037037037037037035
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea12 <= 0.390681, 27 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea12 > 0.390681, 25 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 pressure2 <= 0.262136, 21 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 holdtime1 <= 0.375, 83 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 holdtime1 > 0.375, 24 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown5 <= 0.021236, 2 ,0.3333333333333333
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown5 > 0.021236, 38 ,0.1111111111111111
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime7 > 0.386029, 27 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 pressure9 <= 0.23301, 40 ,0.25
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 pressure9 > 0.23301, 51 ,0.05263157894736842
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 meanfingerarea > 0.359977, 40 ,0.041666666666666664
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 holdtime3 <= 0.33871, 25 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 holdtime3 > 0.33871, 36 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 holdtime1 <= 0.465517, 3 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 holdtime1 > 0.465517, 35 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 fingerarea2 <= 0.15119, 37 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 fingerarea2 > 0.15119, 3 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 meanfingerarea > 0.288921, 37 ,0.045454545454545456
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 pressure6 <= 0.247423, 4 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 pressure6 > 0.247423, 51 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime5 <= 0.315018, 35 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime5 > 0.315018, 85 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 pressure1 <= 0.308756, 71 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 pressure1 > 0.308756, 40 ,0.25
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 pressure10 <= 0.318182, 27 ,0.1111111111111111
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 fingerarea14 <= 0.119753, 66 ,0.25
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 downdown1 <= 0.004085, 68 ,0.2
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 downdown1 > 0.004085, 73 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 pressure3 <= 0.307229, 70 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 pressure3 > 0.307229, 27 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 meanfingerarea > 0.358076, 29 ,0.03333333333333333
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 pressure11 <= 0.452381, 70 ,0.3333333333333333
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 pressure11 > 0.452381, 68 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea1 <= 0.607477, 38 ,0.09090909090909091
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea1 > 0.607477, 73 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 pressure11 <= 0.22619, 2 ,0.14285714285714285
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 pressure11 > 0.22619, 54 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 updown3 <= 0.011236, 83 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 updown3 > 0.011236, 1 ,0.3333333333333333
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 holdtime2 <= 0.404444, 81 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 holdtime2 > 0.404444, 66 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 holdtime6 <= 0.453704, 66 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 holdtime6 > 0.453704, 69 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 updown6 > 0.005589, 81 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 fingerarea9 > 0.444444, 29 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 meanholdtime > 0.559406, 69 ,0.07692307692307693
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 downdown11 <= 0.000776, 28 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 downdown11 > 0.000776, 83 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown11 <= 0.002586, 2 ,0.07142857142857142
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 holdtime1 <= 0.422414, 21 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 holdtime1 > 0.422414, 54 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 pressure4 > 0.194245, 24 ,0.043478260869565216
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 holdtime4 <= 0.296919, 10 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 holdtime4 > 0.296919, 70 ,0.25
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 updown2 <= 0.083118, 28 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 updown2 > 0.083118, 24 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown11 > 0.000865, 85 ,0.1111111111111111
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 downdown13 <= 0.007887, 70 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 downdown13 > 0.007887, 26 ,0.25
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown3 <= 0.008111, 81 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 fingerarea1 <= 0.205607, 2 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 fingerarea11 <= 0.119753 fingerarea4 <= 0.158025, 38 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 fingerarea11 <= 0.119753 fingerarea4 > 0.158025, 1 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 fingerarea6 > 0.407407, 38 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 holdtime2 <= 0.48, 81 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 holdtime2 > 0.48, 26 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 pressure13 <= 0.264463, 85 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 pressure13 > 0.264463, 26 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 fingerarea11 <= 0.119753 fingerarea3 <= 0.318996, 85 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 fingerarea11 <= 0.119753 fingerarea3 > 0.318996, 1 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 meanfingerarea > 0.408291, 36 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 updown3 <= 0.020033, 26 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 fingerarea11 <= 0.119753 downdown9 <= 0.015902, 36 ,0.2
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 updown4 <= 0.01333 fingerarea11 <= 0.119753 downdown9 > 0.015902, 35 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 meanfingerarea <= 0.41041, 55 ,0.037037037037037035
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 meanfingerarea > 0.41041, 41 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 holdtime6 <= 0.578704, 26 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 holdtime6 > 0.578704, 41 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 updown2 <= 0.085334, 28 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 meanholdtime <= 0.669802, 26 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 pressure4 <= 0.280576, 28 ,0.5
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 pressure4 > 0.280576, 82 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 updown6 <= 0.013972, 69 ,0.1111111111111111
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown7 <= 0.019398, 28 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 fingerarea9 <= 0.37037, 4 ,0.0
+ meanfingerarea <= 0.198305 pressure5 <= 0.243902 holdtime12 <= 0.270642 pressure9 > 0.194175 fingerarea6 <= 0.119753 fingerarea6 > 0.119753 holdtime12 > 0.270642 downdown2 <= 0.092431 fingerarea9 > 0.37037, 35 ,0.5
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 downdown8 <= 0.075694, 20 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 downdown8 > 0.075694, 3 ,0.5
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 > 0.300926, 5 ,0.25
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime1 <= 0.306034, 21 ,0.5
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime1 > 0.306034, 2 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea8 <= 0.119753, 71 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea8 > 0.119753, 51 ,0.5
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 pressure1 <= 0.214286, 84 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 pressure1 > 0.214286, 25 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 pressure7 <= 0.112782, 50 ,0.043478260869565216
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 pressure7 > 0.112782, 84 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 fingerarea9 <= 0.158025, 54 ,0.3333333333333333
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 fingerarea9 > 0.158025, 25 ,0.3333333333333333
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 downdown9 <= 0.014616, 5 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 downdown9 > 0.014616, 80 ,0.06666666666666667
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 pressure6 <= 0.134021, 5 ,0.6666666666666666
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 downdown3 <= 0.015337, 25 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 downdown3 > 0.015337, 53 ,0.05263157894736842
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 pressure9 <= 0.174757, 50 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 pressure9 > 0.174757, 54 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 pressure10 > 0.172727, 53 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 downdown11 <= 0.002874, 5 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 downdown11 > 0.002874, 2 ,0.5
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure11 <= 0.166667, 25 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure11 > 0.166667, 21 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure2 <= 0.174757, 50 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure2 > 0.174757, 3 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea9 <= 0.158025, 6 ,0.034482758620689655
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea9 > 0.158025, 25 ,0.14285714285714285
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 fingerarea13 <= 0.139785, 65 ,0.3333333333333333
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 fingerarea13 > 0.139785, 3 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 meanfingerarea > 0.184163, 51 ,0.2
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 > 0.351852, 80 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure1 <= 0.178571, 7 ,0.034482758620689655
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure1 > 0.178571, 65 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure2 <= 0.207056, 3 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 updown13 <= 0.005743, 25 ,0.3333333333333333
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 downdown2 <= 0.092431 downdown3 <= 0.027282, 65 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 downdown2 <= 0.092431 fingerarea1 <= 0.17757 pressure6 <= 0.164948 downdown4 <= 0.013977, 65 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 downdown2 <= 0.092431 fingerarea1 <= 0.17757 pressure6 <= 0.164948 downdown4 > 0.013977, 71 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 downdown2 <= 0.092431 fingerarea1 <= 0.17757 meanholdtime > 0.257426, 9 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 updown10 > 0.074868, 6 ,0.5
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 downdown6 <= 0.028617, 9 ,0.058823529411764705
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 pressure5 <= 0.260083, 9 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 pressure5 > 0.260083, 8 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 fingerarea14 > 0.119753, 25 ,0.5
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 holdtime8 <= 0.271028, 71 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 holdtime8 > 0.271028, 65 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 pressure1 <= 0.107143, 8 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 updown4 <= 0.033886, 54 ,0.5
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 updown4 > 0.033886, 53 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure3 > 0.168675, 10 ,0.041666666666666664
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 pressure2 <= 0.223301, 21 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 updown7 <= 0.016101, 24 ,0.3333333333333333
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 updown7 > 0.016101, 38 ,0.2
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 holdtime12 <= 0.357798, 27 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 holdtime12 > 0.357798, 25 ,0.3333333333333333
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 holdtime8 > 0.504673, 83 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 pressure12 <= 0.148437, 21 ,0.5
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 pressure12 > 0.148437, 51 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 downdown2 <= 0.082161, 27 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 holdtime1 <= 0.344828, 40 ,0.041666666666666664
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 downdown2 <= 0.092431 holdtime12 <= 0.293578, 2 ,0.6666666666666666
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 downdown2 <= 0.092431 holdtime12 > 0.293578, 51 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 fingerarea14 <= 0.196296, 3 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 fingerarea14 > 0.196296, 4 ,0.5
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 pressure1 <= 0.170507, 25 ,0.6666666666666666
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 fingerarea3 <= 0.185185, 3 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 holdtime1 <= 0.482759, 2 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 holdtime1 > 0.482759, 35 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 downdown10 > 0.052025, 38 ,0.14285714285714285
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 holdtime10 <= 0.196347, 51 ,0.2
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 pressure1 <= 0.412442, 3 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 pressure1 > 0.412442, 37 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 meanfingerarea > 0.243287, 37 ,0.038461538461538464
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime9 > 0.372, 35 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 updown11 <= 0.001409, 27 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 updown11 > 0.001409, 38 ,0.2
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 fingerarea5 <= 0.214286, 68 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 fingerarea5 > 0.214286, 73 ,0.04
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 fingerarea11 <= 0.234568, 66 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 fingerarea11 > 0.234568, 68 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 meanfingerarea > 0.517287, 38 ,0.5
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 fingerarea7 <= 0.412442, 71 ,0.1
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 fingerarea7 > 0.412442, 40 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea11 <= 0.158025, 70 ,0.25
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 updown3 <= 0.006431, 29 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 updown3 > 0.006431, 27 ,0.5
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 holdtime1 <= 0.37069, 68 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 holdtime1 > 0.37069, 70 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 holdtime3 > 0.334677, 70 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea7 > 0.37788, 36 ,0.3333333333333333
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 updown13 <= 0.009875, 83 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 updown13 > 0.009875, 54 ,0.14285714285714285
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 pressure13 > 0.272727, 69 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 meanpressure > 0.491649, 66 ,0.043478260869565216
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 downdown11 <= 0.000817, 28 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 fingerarea14 <= 0.196296, 83 ,0.25
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 fingerarea14 > 0.196296, 85 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 holdtime9 <= 0.316, 2 ,0.25
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 holdtime9 > 0.316, 54 ,0.5
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 pressure4 > 0.194245, 24 ,0.0625
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 holdtime12 <= 0.440367, 36 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 downdown2 <= 0.092431 fingerarea6 <= 0.555556, 85 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 downdown2 <= 0.092431 fingerarea6 > 0.555556, 36 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 downdown2 <= 0.092431 pressure6 <= 0.556701, 24 ,0.5
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 downdown2 <= 0.092431 pressure6 > 0.556701, 26 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea1 > 0.560748, 70 ,0.09090909090909091
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 pressure14 <= 0.215909, 2 ,0.05263157894736842
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 pressure14 > 0.215909, 21 ,0.5
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea3 <= 0.185185, 29 ,0.5
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 fingerarea1 <= 0.245129, 83 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 fingerarea1 > 0.245129, 81 ,0.034482758620689655
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 fingerarea4 <= 0.185185, 38 ,0.5
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 fingerarea4 > 0.185185, 1 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 fingerarea6 > 0.37037, 38 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 downdown3 <= 0.016001, 38 ,0.3333333333333333
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 fingerarea4 <= 0.259259, 36 ,0.5
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 fingerarea4 > 0.259259, 85 ,0.07142857142857142
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 holdtime1 <= 0.426724, 70 ,0.3333333333333333
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 holdtime1 > 0.426724, 35 ,0.06666666666666667
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 updown6 <= 0.007492, 69 ,0.058823529411764705
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 holdtime1 <= 0.551724, 69 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 holdtime1 > 0.551724, 24 ,0.5
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 holdtime2 <= 0.502222, 36 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 holdtime2 > 0.502222, 35 ,0.5
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 pressure4 <= 0.230216, 4 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 pressure4 > 0.230216, 26 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure7 <= 0.240601, 26 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure7 > 0.240601, 41 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 fingerarea10 <= 0.158025, 24 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 fingerarea1 <= 0.345794, 28 ,0.045454545454545456
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 fingerarea4 <= 0.222222, 4 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 fingerarea4 > 0.158025 pressure5 > 0.260083 meanholdtime > 0.281683 fingerarea4 > 0.222222, 82 ,0.2
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 downdown6 <= 0.035623, 55 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 downdown6 > 0.035623, 4 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 updown13 <= 0.003992, 82 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 downdown1 <= 0.010902, 41 ,0.0
+ meanfingerarea <= 0.195282 pressure7 <= 0.150376 meanholdtime <= 0.281683 pressure5 <= 0.260083 fingerarea4 <= 0.158025 holdtime6 <= 0.300926 downdown1 > 0.010902, 82 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 downdown2 <= 0.133891, 5 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 downdown2 > 0.133891, 20 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 holdtime9 <= 0.212, 65 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 holdtime9 > 0.212, 71 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 pressure6 <= 0.175258, 84 ,0.04
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 pressure6 > 0.175258, 50 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 fingerarea1 > 0.17757, 54 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 fingerarea12 <= 0.111111, 25 ,0.3333333333333333
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 fingerarea1 <= 0.17757 pressure10 <= 0.109091, 5 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 fingerarea1 <= 0.17757 pressure10 > 0.109091, 80 ,0.1
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 pressure4 > 0.136691, 5 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 fingerarea6 > 0.158025, 50 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 downdown8 <= 0.060414, 54 ,0.1111111111111111
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 fingerarea1 <= 0.17757 fingerarea2 <= 0.15119, 2 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 fingerarea1 <= 0.17757 updown2 > 0.103805 pressure10 <= 0.127273, 50 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 fingerarea1 <= 0.17757 updown2 > 0.103805 pressure10 > 0.127273, 5 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 downdown6 <= 0.01229, 54 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 downdown6 > 0.01229, 53 ,0.043478260869565216
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 fingerarea13 > 0.185185, 25 ,0.25
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.142857, 25 ,0.2
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 holdtime14 <= 0.464789, 80 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 holdtime14 > 0.464789, 53 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure3 > 0.162651, 65 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 holdtime8 <= 0.247664, 7 ,0.038461538461538464
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 downdown2 <= 0.135032, 65 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 holdtime1 <= 0.362069, 71 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 holdtime1 > 0.362069, 65 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 holdtime3 > 0.370968, 9 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 pressure13 <= 0.157025, 5 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 pressure13 > 0.157025, 9 ,0.08695652173913043
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 holdtime5 <= 0.355311, 8 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 holdtime5 > 0.355311, 9 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 downdown2 <= 0.120578, 24 ,0.2
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 downdown2 > 0.120578, 2 ,0.045454545454545456
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure13 <= 0.115702, 25 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure13 > 0.115702, 50 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 fingerarea5 <= 0.214286, 25 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 fingerarea5 > 0.214286, 54 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 pressure2 <= 0.26258, 21 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 pressure2 > 0.26258, 24 ,0.16666666666666666
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 pressure8 <= 0.162791, 2 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 fingerarea14 <= 0.081482, 25 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 fingerarea4 <= 0.119753, 25 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 fingerarea4 > 0.119753, 51 ,0.0625
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 pressure3 <= 0.096386, 40 ,0.3333333333333333
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 downdown3 <= 0.02389, 51 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 downdown3 > 0.02389, 3 ,0.06451612903225806
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure13 > 0.231405, 65 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 <= 0.090226, 24 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.090226, 80 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 fingerarea2 > 0.225, 54 ,0.14285714285714285
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 fingerarea3 <= 0.222222, 25 ,0.25
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 fingerarea3 > 0.222222, 27 ,0.06666666666666667
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure2 <= 0.368932, 6 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 holdtime4 <= 0.238095, 68 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 holdtime4 > 0.238095, 70 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 downdown8 <= 0.041096, 65 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 holdtime3 <= 0.145161, 7 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 holdtime3 > 0.145161, 71 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 fingerarea9 <= 0.196296, 51 ,0.3333333333333333
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 fingerarea9 > 0.196296, 68 ,0.3333333333333333
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 meanfingerarea <= 0.170581, 10 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure14 <= 0.329545, 54 ,0.2
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure14 > 0.329545, 69 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 updown11 <= 0.000496, 28 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 holdtime14 <= 0.497653, 24 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 holdtime14 > 0.497653, 10 ,0.6666666666666666
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 pressure10 <= 0.272727, 27 ,0.25
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 pressure10 > 0.272727, 29 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 fingerarea11 <= 0.259259, 38 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 fingerarea11 > 0.259259, 27 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 downdown11 <= 0.002145, 21 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 holdtime12 <= 0.266055, 40 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 holdtime12 > 0.266055, 51 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 meanfingerarea > 0.391377, 40 ,0.037037037037037035
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 pressure4 <= 0.258993, 37 ,0.047619047619047616
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 holdtime2 <= 0.288889, 51 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 holdtime2 > 0.288889, 36 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 fingerarea12 <= 0.185185, 68 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 downdown10 <= 0.046619, 73 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 downdown10 > 0.046619, 68 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 fingerarea14 <= 0.148148, 29 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 pressure4 <= 0.359712, 27 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 pressure4 > 0.359712, 68 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 fingerarea2 > 0.535714, 35 ,0.6666666666666666
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure6 <= 0.42268, 83 ,0.038461538461538464
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 updown12 <= 0.053488, 24 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 updown12 > 0.053488, 69 ,0.3333333333333333
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure8 > 0.372093, 85 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure14 <= 0.579545, 66 ,0.043478260869565216
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure14 > 0.579545, 68 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 fingerarea11 <= 0.333333, 29 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 fingerarea11 > 0.333333, 26 ,0.6666666666666666
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 fingerarea2 <= 0.285714, 29 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 fingerarea2 > 0.285714, 81 ,0.043478260869565216
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 fingerarea10 <= 0.158025, 24 ,0.3333333333333333
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 fingerarea10 <= 0.196296, 2 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 fingerarea10 > 0.196296, 83 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanfingerarea > 0.400814, 38 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 fingerarea1 <= 0.17757 downdown11 <= 0.001881, 1 ,0.04
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 fingerarea1 <= 0.17757 downdown11 > 0.001881, 85 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 fingerarea9 > 0.444444, 38 ,0.3333333333333333
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 fingerarea10 <= 0.296296, 70 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 fingerarea10 > 0.296296, 38 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 fingerarea6 > 0.407407, 38 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 fingerarea2 <= 0.225, 24 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 fingerarea1 <= 0.17757 fingerarea5 <= 0.343318, 85 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 fingerarea1 <= 0.17757 fingerarea5 > 0.343318, 36 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 downdown10 <= 0.039174, 36 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 updown2 <= 0.103805 downdown10 > 0.039174, 26 ,0.3333333333333333
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 fingerarea11 <= 0.185185, 66 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 fingerarea11 > 0.185185, 70 ,0.3333333333333333
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 holdtime5 <= 0.351648, 1 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 holdtime5 > 0.351648, 36 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 holdtime7 <= 0.430147, 35 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 holdtime7 > 0.430147, 26 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 fingerarea10 <= 0.158025, 24 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 fingerarea12 <= 0.185185, 83 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 fingerarea12 > 0.185185, 28 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 pressure4 <= 0.345324, 55 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 meanholdtime > 0.259406 pressure4 > 0.345324, 1 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 updown6 > 0.030977, 4 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 fingerarea7 > 0.308756, 26 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanfingerarea > 0.421873, 36 ,0.2
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 fingerarea14 <= 0.158025, 69 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 fingerarea14 > 0.158025, 28 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 fingerarea4 <= 0.158025, 69 ,0.3333333333333333
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 downdown10 <= 0.027209, 70 ,0.25
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 downdown10 > 0.027209, 26 ,0.08695652173913043
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 updown1 <= 0.007814, 41 ,0.047619047619047616
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 pressure4 <= 0.28777, 41 ,0.0
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 pressure8 <= 0.232558 meanholdtime <= 0.259406 pressure7 <= 0.150376 pressure7 > 0.150376 pressure4 > 0.28777, 82 ,0.04
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 fingerarea6 <= 0.259259, 35 ,0.5
+ meanfingerarea <= 0.277676 pressure3 <= 0.192456 meanfingerarea <= 0.154881 fingerarea6 > 0.259259, 4 ,0.0

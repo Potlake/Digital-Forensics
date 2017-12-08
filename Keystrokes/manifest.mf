@@ -1,3 +1,4 @@
 Manifest-Version: 1.0
 X-COMMENT: Main-Class will be added automatically by build
-
+Class-Path: mysql-connector-java-5.1.42-bin.jar weka-3.7.3.jar
+Main-Class: LoginDialog
