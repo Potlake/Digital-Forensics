@@ -440,7 +440,7 @@ public class API {
         }
     }
 
-    public static boolean verifyChecksum(int file) throws NoSuchAlgorithmException, IOException, Exception {
+    public boolean verifyChecksum(int file) throws NoSuchAlgorithmException, IOException, Exception {
         /*MessageDigest sha256 = MessageDigest.getInstance("SHA256");
          FileInputStream fis = new FileInputStream(file);
   
@@ -487,7 +487,7 @@ public class API {
 
     public static void main(String[] args) throws Exception {
 
-        API.verifyChecksum(1);
+        //API.verifyChecksum(1);
         //API.getFile();
     }
 

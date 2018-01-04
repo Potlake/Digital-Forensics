@@ -12,6 +12,9 @@ import java.awt.FlowLayout;
 import java.awt.Toolkit;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
+import java.awt.event.MouseListener;
 import java.io.*;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
@@ -78,7 +81,7 @@ public class KeystrokesForm extends javax.swing.JFrame {
      private Text textContent;
      API api;
      public Weka test;
-     private DefaultListModel<String> listModel = new DefaultListModel<String>();
+    
      
      private String[] colNames = { "File name","Hash value" };
 
@@ -107,7 +110,7 @@ public class KeystrokesForm extends javax.swing.JFrame {
             StringBuffer sb = new StringBuffer();
 
             while (con.resultSet.next()) {
-                FileOutputStream output = new FileOutputStream(new File("file" + count + ".csv"));
+                //FileOutputStream output = new FileOutputStream(new File("file" + count + ".csv"));
                 Blob fileBlob = con.resultSet.getBlob("filePath");
                 filename.add(con.resultSet.getString("filename"));
                 InputStream input = con.resultSet.getBinaryStream("filename");
@@ -118,19 +121,20 @@ public class KeystrokesForm extends javax.swing.JFrame {
                     System.out.println(new String(buffer));
                 }*/
 
-                count++;
-                output.close();
+               
             }
             System.out.println("File name:" + Arrays.toString(filename.toArray()));
+            
+            DefaultListModel<String> listModel = new DefaultListModel<String>();
                
-                for(int i = 0; i < filename.size(); i++)
+                for(String s: filename)
                 {
-                    listModel.addElement(filename.get(i));
+                    listModel.addElement(s);
                 }
                 
-                System.out.println("Items: " + listModel);
-                jList1.setModel(listModel);
-
+              jList1.setModel(listModel);
+              
+                
          } catch (Exception ex) {
              Logger.getLogger(KeystrokesForm.class.getName()).log(Level.SEVERE, null, ex);
          }
@@ -300,6 +304,11 @@ public class KeystrokesForm extends javax.swing.JFrame {
         jTabbedPane5.addTab("Upload External Dataset", jPanel4);
 
         jButton7.setText("Verify Checksum");
+        jButton7.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton7ActionPerformed(evt);
+            }
+        });
 
         jList1.setModel(new javax.swing.AbstractListModel() {
             String[] strings = { "Item 1", "Item 2", "Item 3", "Item 4", "Item 5" };
@@ -563,24 +572,45 @@ public class KeystrokesForm extends javax.swing.JFrame {
 
     private void jList1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jList1MouseClicked
         // TODO add your handling code here:
-        
-        
-        
-      
-        
-        
-        
-         jList1.addListSelectionListener(new ListSelectionListener() {
-            @Override
-            public void valueChanged(ListSelectionEvent e) {
-                if (!e.getValueIsAdjusting()) {
-                    final List<String> selectedValuesList = jList1.getSelectedValuesList();
-                    System.out.println(selectedValuesList);
-                }
+      ListSelectionListener listSelectionListener = new ListSelectionListener() {
+      public void valueChanged(ListSelectionEvent listSelectionEvent) {
+        System.out.print("First index: " + listSelectionEvent.getFirstIndex());
+        System.out.print(", Last index: " + listSelectionEvent.getLastIndex());
+        boolean adjust = listSelectionEvent.getValueIsAdjusting();
+        System.out.println(", Adjusting? " + adjust);
+        if (!adjust) {
+          jList1 = (JList) listSelectionEvent.getSource();
+          int selections[] = jList1.getSelectedIndices();
+          Object selectionValues[] = jList1.getSelectedValues();
+          for (int i = 0, n = selections.length; i < n; i++) {
+            if (i == 0) {
+              System.out.print("  Selections: ");
             }
-        });
-         add(new JScrollPane(jList1));
+            System.out.print(selections[i] + "/" + selectionValues[i] + " ");
+          }
+          System.out.println();
+        }
+      }
+    };
+    jList1.addListSelectionListener(listSelectionListener);
+
+        
+        
     }//GEN-LAST:event_jList1MouseClicked
+
+    private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
+         try {
+             // TODO add your handling code here:
+              String selectionValue = jList1.getSelectedValue().toString();
+              int selections = jList1.getSelectedIndex();
+              System.out.println("Selected index: " + selections);
+             api.verifyChecksum(selections);
+         } catch (IOException ex) {
+             Logger.getLogger(KeystrokesForm.class.getName()).log(Level.SEVERE, null, ex);
+         } catch (Exception ex) {
+             Logger.getLogger(KeystrokesForm.class.getName()).log(Level.SEVERE, null, ex);
+         }
+    }//GEN-LAST:event_jButton7ActionPerformed
    
   
     
