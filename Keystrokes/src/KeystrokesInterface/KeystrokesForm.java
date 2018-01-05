@@ -601,10 +601,15 @@ public class KeystrokesForm extends javax.swing.JFrame {
     private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
          try {
              // TODO add your handling code here:
-              String selectionValue = jList1.getSelectedValue().toString();
-              int selections = jList1.getSelectedIndex();
-              System.out.println("Selected index: " + selections);
-             api.verifyChecksum(selections);
+             Object selectionValue[] = jList1.getSelectedValues();
+              //int selections = jList1.getSelectedIndex();
+              //System.out.println("Selected index: " + selections);
+             api = new API();
+             for(int i = 0; i < selectionValue.length; i++)
+             {
+                 System.out.println("Values: " + selectionValue[i].toString());
+                 api.verifyChecksum(selectionValue[i].toString());
+             }
          } catch (IOException ex) {
              Logger.getLogger(KeystrokesForm.class.getName()).log(Level.SEVERE, null, ex);
          } catch (Exception ex) {

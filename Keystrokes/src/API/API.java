@@ -440,7 +440,7 @@ public class API {
         }
     }
 
-    public boolean verifyChecksum(int file) throws NoSuchAlgorithmException, IOException, Exception {
+    public boolean verifyChecksum(String filename) throws NoSuchAlgorithmException, IOException, Exception {
         /*MessageDigest sha256 = MessageDigest.getInstance("SHA256");
          FileInputStream fis = new FileInputStream(file);
   
@@ -462,14 +462,49 @@ public class API {
         ConnectDatabase con = new ConnectDatabase();
         try {
             con.connectToDataBase();
-
-            String query = "select * from duplicatefiles d left join originalfiles o on d.fileid = o.fileid where o.hashvalue = d.hashvalue and o.fileid = ?";
-
-            con.preparedStatement = con.connect.prepareStatement(query);
-            con.preparedStatement.setInt(1, file);
+            String status = "";
+            System.out.println("Checksum Successful! ");
+            String filenameQuery = "select * from duplicatefiles";
+            //String query = "select * from duplicatefiles d left join originalfiles o on d.fileid = o.fileid where o.hashvalue = d.hashvalue and o.fileid = ?";
+            
+            con.preparedStatement = con.connect.prepareStatement(filenameQuery);
+            
             con.resultSet = con.preparedStatement.executeQuery();
             if (con.resultSet.next()) {
-                System.out.println("Checksum Successful!");
+                String filenameResults = con.resultSet.getString("filename");
+                System.out.println("Im here");
+                System.out.println("Checksum Successful! " + filenameResults);
+                
+                
+                if(filenameResults.equals(filename))
+                {
+                    //String query = "select * from duplicatefiles d left join originalfiles o on d.fileid = o.fileid where o.hashvalue = d.hashvalue and o.fileid = ?";
+                    //System.out.println("NAME: " + filename);
+                    System.out.println("Im here inside");
+                    String filenameQuery2 = "select * from originalfiles";
+                    con.preparedStatement = con.connect.prepareStatement(filenameQuery2);
+                    con.resultSet = con.preparedStatement.executeQuery();
+                    
+                    if (con.resultSet.next()) {
+                        String filenameResults2 = con.resultSet.getString("filename");
+                         
+                        String query = "select * from duplicatefiles d left join originalfiles o on d.fileid = o.fileid where o.hashvalue = d.hashvalue and o.filename= filenameResults2";
+                        
+                        con.preparedStatement = con.connect.prepareStatement(query);
+                        
+                        //con.resultSet = con.preparedStatement.executeQuery();
+                        
+                       
+                        
+                             String hashvalue = con.resultSet.getString("hashvalue");
+                             System.out.println("HASH VALUE: " + hashvalue);
+                               
+                        
+                        System.out.println("Checksum Successful! " + filenameResults2);
+                        
+                        
+                    }
+                }
                 return true;
             }
         } catch (Exception ex) {
